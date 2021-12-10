@@ -14,4 +14,10 @@ All datasets were taken from www.baseball.tomthress.com
 
 # Methods
 
-For the first 
+For Parts 1 and 2, I first imported the data as a dataframe using Pandas. Then, I sorted the data based on key statistics that I wanted to highlight, and used MatPlotLib to create charts for those statistics.
+
+For Part 3, I imported the data as a dataframe using Pandas, and split it up into two dataframes: one for the Red Sox, and one for the Dodgers. Then, I summed up the key statistics that I was looking at and used a formula to calculate the win probability for the Red Sox over the Dodgers
+
+# Results
+
+

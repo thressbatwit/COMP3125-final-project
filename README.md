@@ -1,7 +1,7 @@
 # COMP3125-final-project
 Data Science Fundamentals project involving the 2018 Boston Red Sox season using Player Won-Loss Records
 
-Intro
+# Intro
 
 This project is designed to analyze the 2018 Boston Red Sox season using datasets showing Player Won-Loss Records. Player Won-Loss records are statistics used to measure a baseball player's performance in the context of games. In other words, they help measure how much a certain player contributes to his team winning games, as a modern alternative to traditional pitcher wins and losses. 
 
@@ -12,6 +12,6 @@ There were several questions that I decided to look into using these datasets. F
 All datasets were taken from www.baseball.tomthress.com
 
 
-Methods
+# Methods
 
 For the first 

@@ -40,4 +40,4 @@ Part 3: Using the eWins and eLosses stats calculated for both the Red Sox and Do
 
 # Discussion
 
-
+Using alternate baseball statistics such as Baseball Player Won-Loss Records can really help gain in insight into what helps a Major League Baseball team win games. With the analysis that this project led me to, 

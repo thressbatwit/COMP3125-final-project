@@ -36,4 +36,8 @@ Pitching: ![image](https://user-images.githubusercontent.com/54991253/145659402-
 Fielding: ![image](https://user-images.githubusercontent.com/54991253/145659427-771ae7ef-c0a6-4ee6-af9a-afda7ef403e6.png)
 
 
-Part 3: 
+Part 3: Using the eWins and eLosses stats calculated for both the Red Sox and Dodgers, I was able to calcuate the probability of the Red Sox winning a single-game head-to-head matchup against the Dodgers (58.7%), as well as how many wins the Red Sox would get if they played the Dodgers for every game of a 162-game schedule (~95 wins)
+
+# Discussion
+
+
